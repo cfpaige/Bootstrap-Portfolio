@@ -4,7 +4,7 @@ Week 1 homework using Bootstrap components, snippets, templates, and themes.
 
 -----
 
-![About Page Screen Capture](img/about-page-capture.png)
+![About Page Screen Capture](img/about-photo.png)
 
 -----
 
@@ -33,24 +33,23 @@ This project is licensed under the MIT License - see the
 
 This wouldn’t have been possible without these people and resources:
 
-* (https://getbootstrap.com)
+* https://getbootstrap.com
 
-* [([https://startbootstrap.com](https://startbootstrap.com)))
+* https://startbootstrap.com
 
-* (https://mdbootstrap.com/freebies)
+* https://mdbootstrap.com/freebies
 
-* ([https://bootstrapmade.com](https://bootstrapmade.com/))
+* https://bootstrapmade.com
 
 
 And there wouldn’t be a README without:
 
-* (https://www.makeareadme.com)
+* https://www.makeareadme.com
 
-* (<https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet>)
+* https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
 
-* (http://www.writage.com)
+* http://www.writage.com
 
-*
-(<https://medium.com/@meakaakka/a-beginners-guide-to-writing-a-kickass-readme-7ac01da88ab3>)
+* https://medium.com/@meakaakka/a-beginners-guide-to-writing-a-kickass-readme-7ac01da88ab3
 
-* (<http://tom.preston-werner.com/2010/08/23/readme-driven-development.html>)
+* http://tom.preston-werner.com/2010/08/23/readme-driven-development.html
