@@ -4,7 +4,7 @@ Week 1 homework using Bootstrap components, snippets, templates, and themes.
 
 -----
 
-![About Page Screen Capture](img/about-photo.png)
+![About Page Screen Capture](img/about-page-capture.png)
 
 -----
 
